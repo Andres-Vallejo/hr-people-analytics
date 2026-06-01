@@ -1,0 +1,9 @@
+employee_id,department,role_level,tenure_years,engagement_score,training_hours,attrition
+E001,Sales,Associate,1.2,62,8,1
+E002,Engineering,Senior,4.5,84,22,0
+E003,Operations,Associate,0.8,58,6,1
+E004,Finance,Manager,6.0,79,18,0
+E005,Sales,Senior,3.4,71,12,0
+E006,Operations,Associate,1.5,60,9,1
+E007,Engineering,Associate,2.1,76,20,0
+E008,HR,Manager,5.3,88,16,0
